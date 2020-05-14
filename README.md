@@ -1,5 +1,7 @@
 # PuTTY
 
+![](images/putty.PNG)
+
 ##
 
 # **Secure Software Engineering**
